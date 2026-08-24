@@ -1,79 +1,105 @@
-h1 align=centerHi 👋, I'm Hari Haran LGh1
-h3 align=center
-SDET Team Lead  Test Automation Architect  Quality & CICD Strategist
-h3
-
-p align=center
-img src=httpsreadme-typing-svg.herokuapp.comfont=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=SDET+Team+Lead;+Architecting+Test+Automation+Strategies;+Java+%7C+Selenium+%7C+Rest+Assured+%7C+Cucumber;+Governing+Enterprise+Production+Releases;+Let's+Build+Quality-Driven+Software! 
-p
-
----
-
-## 🚀 About Me
-
-- 🔭 I'm an SDET Team Lead with 2+ years of experience architecting test automation frameworks, CICD pipelines, and release quality gates across Healthcare and Government platforms[cite 2].
-- 💡 Passionate about shifting quality left, driving AI-powered visual validation, and building scalable frameworks that reduce manual QA effort and accelerate regression cycles[cite 2].
-- 🌱 Currently expanding my expertise in advanced cloud automation, performance engineering, and system reliability practices.
-- 👯 Open to collaborating on enterprise automation frameworks, open-source testing tools, and high-impact QA initiatives.
-
----
-
-## 🛠️ Tech Stack
-
-p align=center
-  img src=httpsskillicons.deviconsi=java,mysql,maven,docker,githubactions,postman,vscode,git,github,selenium
-p
-
-- Programming & Databases Java, SQL, MySQL, SQL Server (SSMS), DBeaver[cite 2]
-- Automation & Frameworks Selenium WebDriver, Page Object Model (POM), TestNG, JUnit, Cucumber (BDD), Gherkin[cite 2]
-- API & Performance REST Assured, Postman, Insomnia, Apache JMeter, BlazeMeter[cite 2]
-- Visual & CICD & DevOps Applitools Visual AI, GitHub Actions, Docker, SonarQube, JaCoCo, Allure Reporting[cite 2]
-
----
-
-## 🏆 Featured Projects & Impact
-
-### Enterprise Platforms (MetaHOS & KBOCWWB)
-- Directed QA strategy and risk-based validation across Web, Mobile, Kiosk, and Dockerized offline deployments for government and healthcare platforms[cite 2].
-- Architected BDD-driven automation frameworks (Java, Selenium, TestNG, Cucumber, Maven) integrated with GitHub Actions CICD[cite 2].
-- Governed 58+ enterprise production releases by defining quality gates and risk-assessment workflows[cite 2].
-- Spearheaded the identification and resolution of 1,700+ defects, driving high production stability[cite 2].
-
-### Scalable Test Frameworks & AI Testing
-- Implemented AI-powered testing by integrating Applitools Visual AI with Selenium for automated visual regression[cite 2].
-- Conducted thorough performanceload testing using Apache JMeter and BlazeMeter to evaluate throughput and system scalability under heavy workloads[cite 2].
-- Embedded code quality tools like SonarQube, JaCoCo, and EclEmma into the QA ecosystem[cite 2].
-
----
-
-## 📈 GitHub Stats & Trophies
-
-p align=center
-img height=170 src=httpsgithub-readme-stats.vercel.appapiusername=hariharanlg25&show_icons=true&theme=tokyonight&hide_border=true
-img height=170 src=httpsgithub-readme-stats.vercel.appapitop-langsusername=hariharanlg25&layout=compact&theme=tokyonight&hide_border=true
-p
-
-p align=center
-img src=httpsgithub-readme-streak-stats.herokuapp.comuser=hariharanlg25&theme=tokyonight&hide_border=true
-p
-
-p align=center
-img src=httpsgithub-profile-trophy.vercel.appusername=hariharanlg25&theme=tokyonight&no-frame=true&margin-w=10
-p
-
----
-
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h3 align="center">
+🌐 Full Stack Web Developer | Passionate Problem Solver | Building 
+Modern Web Experiences
+</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?
+font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=
+true&width=800&lines=Full+Stack+Web+Developer;JavaScript+%7C+React+
+%7C+Node.js;Always+Learning+New+Technologies;Let's+Build+Something+A
+wesome!" />
+</p>--
+## 🚀 About Me- 💻 I'm a **Full Stack Web Developer** passionate about creating 
+responsive and user-friendly web applications.- 🚀 I enjoy turning ideas into real-world projects.- 🌱 Currently learning **Next.js, TypeScript, and Cloud 
+Technologies**.- 🤝 Open to collaborating on exciting web development and open
+source projects.- 📚 Always exploring modern technologies and best development 
+practices.- ⚡ Fun Fact: **I love solving coding challenges and building 
+useful applications.**--
 ## 🌐 Connect With Me
-
-p align=left
-a href=httpswww.linkedin.cominhari-haran-l-g
-img src=httpsimg.shields.iobadgeLinkedIn-0077B5style=for-the-badge&logo=linkedin
-a
-a href=mailtoharanhari99815@gmail.com
-img src=httpsimg.shields.iobadgeEmail-D14836style=for-the-badge&logo=gmail
-a
-p
-
----
-
-h3 align=centerThanks for visiting my profile!h3
+<p align="left">
+<a href="[LinkedIn URL]">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for
+the-badge&logo=linkedin"/>
+</a>
+<a href="[Portfolio URL]">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for
+the-badge&logo=vercel"/>
+</a>
+<a href="mailto:[Email Address]">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the
+badge&logo=gmail"/>
+</a>
+</p>--
+# 💻 Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?
+i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,
+tailwind,bootstrap,git,github,vscode,figma,postman,npm,vite"/>
+</p>--
+# 🚀 Featured Projects
+## 🌍 Portfolio Website
+Modern personal portfolio showcasing projects, skills, and 
+experience.
+**Tech Stack**
+`HTML` `CSS` `JavaScript` `React`
+🔗 Live Demo: [Portfolio URL]
+📂 Repository: [GitHub Repository]--
+## 🛒 E-Commerce Website
+A responsive online shopping platform with authentication and cart 
+functionality.
+**Tech Stack**
+`React` `Node.js` `Express` `MongoDB`
+🔗 Live Demo: [Project URL]
+📂 Repository: [GitHub Repository]--
+## ✅ Task Management App
+A productivity application to organize daily tasks with 
+authentication.
+**Tech Stack**
+`React` `Firebase` `Tailwind CSS`
+🔗 Live Demo: [Project URL]
+📂 Repository: [GitHub Repository]--
+# 📊 GitHub Stats
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?
+username=[GitHubUsername]&show_icons=true&theme=tokyonight&hide_bord
+er=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/
+top-langs/?
+username=[GitHubUsername]&layout=compact&theme=tokyonight&hide_borde
+r=true"/>
+</p>--
+# 🔥 GitHub Streak
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?
+user=[GitHubUsername]&theme=tokyonight&hide_border=true"/>
+</p>--
+# 📈 Contribution Graph
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?
+username=[GitHubUsername]&theme=tokyo-night"/>
+</p>--
+# 🏆 GitHub Trophies
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?
+username=[GitHubUsername]&theme=tokyonight&no-frame=true&margin
+w=10"/>
+</p>--
+# 🛠 Currently Working On- 🚀 Building full-stack web applications.- 🌱 Learning advanced React ecosystem.- ☁️ Exploring cloud deployment and DevOps.- 📱 Improving responsive UI/UX design.--
+# 📚 Currently Learning- TypeScript- Next.js- Docker- AWS- System Design- Backend Architecture--
+# 🎯 Goals for 2025- ✅ Contribute to Open Source- ✅ Build SaaS Applications- ✅ Master Full Stack Development- ✅ Learn Cloud Computing- ✅ Grow My Developer Portfolio--
+# 💡 Favorite Quote
+> "Code is like humor. When you have to explain it, it's bad." – 
+Cory House--
+<p align="center">
+<img src="https://komarev.com/ghpvc/?
+username=[GitHubUsername]&label=Profile+Views&color=0e75b6&style=fla
+t"/>
+</p>--
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
+<p align="center">
+If you like my work, consider giving a ⭐ to my repositories and 
+connecting with me.
+</p
