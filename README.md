@@ -21,6 +21,18 @@ Accomplished SDET Team Lead with a proven trajectory of architecting robust test
 - 🌱 **I'm currently learning**: Advanced CI/CD pipeline optimizations, containerized test execution with Docker, and cloud-native quality engineering practices[cite: 2].
 - ⚡ **Ask me about**: Java, Selenium, TestNG, Cucumber (BDD), REST Assured, Postman, Applitools Visual AI, MySQL, and test automation framework design[cite: 2].
 
+
+---
+
+### 🛠️ Technical Skills
+
+* **Programming Languages:** Java, SQL[cite: 1]
+* **UI Automation:** Selenium WebDriver, Page Object Model (POM), Data-Driven Framework[cite: 1]
+* **API Testing:** REST Assured, Postman, Insomnia, REST API Validation[cite: 1]
+* **Test Frameworks:** TestNG, JUnit, Cucumber (BDD), Gherkin[cite: 1]
+* **Visual & Performance Testing:** Applitools Visual AI, Apache JMeter, BlazeMeter[cite: 1]
+* **Database & DevOps:** MySQL, SQL Server (SSMS), DBeaver, GitHub Actions, Maven, Docker[cite: 1]
+* **Code Quality & Version Control:** SonarQube, JaCoCo, Allure Reporting, Git, GitHub[cite: 1]
 ---
 
 # 💻 Tech Stack:
