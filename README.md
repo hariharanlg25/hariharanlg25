@@ -44,8 +44,12 @@ Accomplished SDET Team Lead with a proven trajectory of architecting robust test
   <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver" />
 </p>
 ### Programming & Databases
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![DBeaver](https://img.shields.io/badge/DBeaver-%23382F2D.svg?style=for-the-badge&logo=dbeaver&logoColor=white)
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
+  <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver" />
+</p>
 ### Automation & Testing Frameworks
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![TestNG](https://img.shields.io/badge/TestNG-%23FF7F00.svg?style=for-the-badge&logo=testng&logoColor=white) ![Cucumber](https://img.shields.io/badge/Cucumber-%2323D96B.svg?style=for-the-badge&logo=cucumber&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Apache JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white) ![Applitools](https://img.shields.io/badge/Applitools-%235B35D5.svg?style=for-the-badge&logo=applitools&logoColor=white)
 
