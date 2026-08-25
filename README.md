@@ -1,3 +1,9 @@
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+   <img alt="Logo for Hari Haran L G" src="art/header-light.png">
+</picture>
+
+
 # 💫 About Me:
 - 🔭 **I'm currently working on**: Architecting BDD-driven test automation frameworks, managing enterprise CI/CD release quality gates, and leading QA strategies for healthcare and government platforms[cite: 2].
 - 👯 **I'm looking to collaborate on**: Open-source test automation tools, advanced Selenium/REST Assured framework architectures, and enterprise QA optimization initiatives[cite: 2].
