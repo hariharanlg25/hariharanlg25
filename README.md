@@ -3,6 +3,15 @@
    <img alt="Logo for Hari Haran L G" src="art/header-light.png">
 </picture>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Hari+Haran+L+G+👋" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hariharanlg25/hariharanlg25/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+</p>
+
+
 SDET Team Lead | Test Automation Architect & Release Quality Strategist | Scaling Enterprise Automation & CI/CD Excellence
 --------------------------------------------------------------------------------------------------------------------------
 ## 🧑‍💻 About Me
@@ -75,7 +84,6 @@ SDET Team Lead | Test Automation Architect & Release Quality Strategist | Scalin
 
 * **[Java-RestAssured-Automation](https://github.com/hariharanlg25/Java-RestAssured-Automation)** — Core backend validation and robust API testing repository leveraging Java, REST Assured, and TestNG with data-driven architecture.
 * **[QA-Workspace](https://github.com/hariharanlg25/QA-Workspace)** — Comprehensive learning center and curated repository containing testing best practices, automation scripts, and quality engineering resources.
-*
 ---
 
 ### Socials
@@ -108,6 +116,11 @@ SDET Team Lead | Test Automation Architect & Release Quality Strategist | Scalin
 ![](https://streak-stats.demolab.com/?user=hariharanlg25&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=hariharanlg25&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hariharanlg25&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 <!--[![](https://komarev.com/ghpvc/?username=hariharanlg25&icon=0&color=0)](https://visitcount.itsvg.in)-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
