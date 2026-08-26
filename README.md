@@ -2,6 +2,7 @@
    <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
    <img alt="Logo for Hari Haran L G" src="art/header-light.png">
 </picture>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Hari Haran L G
 
 SDET Team Lead | Test Automation Architect & Release Quality Strategist | Scaling Enterprise Automation & CI/CD Excellence
 --------------------------------------------------------------------------------------------------------------------------
