@@ -3,13 +3,15 @@
    <img alt="Logo for Hari Haran L G" src="art/header-light.png">
 </picture>
 
+<!---      ascii rain gif 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Hari+Haran+L+G+👋" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/hariharanlg25/hariharanlg25/main/art/matrix.gif" width = "100%" height="150" alt="Matrix Rain Animation" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hariharanlg25/hariharanlg25/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Hari+Haran+L+G+👋" alt="Typing SVG" />
+</p>--->
+
 
 
 SDET Team Lead | Test Automation Architect & Release Quality Strategist | Scaling Enterprise Automation & CI/CD Excellence
@@ -36,6 +38,10 @@ SDET Team Lead | Test Automation Architect & Release Quality Strategist | Scalin
 * Advanced Architecture: Cutting-edge Selenium and REST Assured framework architectures built for modern CI/CD pipelines.
 * AI-Driven QA Optimization: Enterprise quality assurance initiatives powered by machine learning and intelligent test generation.
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hariharanlg25/hariharanlg25/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+</p>
 
 # 💻 Tech Stack:
 
