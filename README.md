@@ -91,6 +91,7 @@ SDET Team Lead | Test Automation Architect & Release Quality Strategist | Scalin
 
 * **[Java-RestAssured-Automation](https://github.com/hariharanlg25/Java-RestAssured-Automation)** — Core backend validation and robust API testing repository leveraging Java, REST Assured, and TestNG with data-driven architecture.
 * **[QA-Workspace](https://github.com/hariharanlg25/QA-Workspace)** — Comprehensive learning center and curated repository containing testing best practices, automation scripts, and quality engineering resources.
+* **[Healenium-repo](https://github.com/hariharanlg25/Healenium-repo)** — Comprehensive study guide and hands-on repository demonstrating self-healing test automation, locator recovery mechanisms, and Dockerized backend configuration for Selenium WebDriver.
 ---
 
 ### Socials
