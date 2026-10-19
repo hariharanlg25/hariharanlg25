@@ -51,6 +51,7 @@ SDET Team Lead | Test Automation Architect & Release Quality Strategist | Scalin
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+   <img src="https://img.shields.io/badge/Healenium-008080?style=for-the-badge&logo=selenium&logoColor=white" alt="Healenium" />
   <img src="https://img.shields.io/badge/POM-1572B6?style=for-the-badge&logo=pageobject&logoColor=white" alt="POM" />
 </p>
 <p align="left">
